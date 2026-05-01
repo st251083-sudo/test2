@@ -1,2 +1,6 @@
 # test2
-hello,my name is sho.i like math and soccer.nice to me too.
+自己紹介
+名前　池田翔
+好きなこと　サッカー、数学、ゲーム、キャンプ
+一人でいることが多い（登下校は主に一人で動く）
+話しかけてくれたら嬉しいです！
